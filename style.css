@@ -3,8 +3,8 @@ body {
     min-height: 100vh;
     background-color: #2c2c2c;
     
-        overflow-y: hidden; /* Hide vertical scrollbar */
-        overflow-x: hidden; /* Hide horizontal scrollbar */
+         /* Hide vertical scrollbar */
+       /* Hide horizontal scrollbar */
       
 }
 .container {
